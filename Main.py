@@ -1,6 +1,4 @@
 # Created by David Krupar
-# Student ID: 009479098
-# C950
 
 # Using various imports to provide cleaner file structure
 import datetime
